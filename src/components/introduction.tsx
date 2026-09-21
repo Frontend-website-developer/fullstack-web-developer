@@ -8,7 +8,7 @@ export default function Introduction() {
     return(
         <>
             <div className="border-[2px] rounded-full border-[#038980] inline-block mb-4 px-3 mt-[100px] font-semibold">
-                Inroduction
+                Introduction
             </div>
             <h1 className="text-[34px] font-[500]">Hey! I'm Syed Sajid Ali, Senior Full-Stack Developer</h1>
             <p className="text-[20px] mb-4">MERN Stack · Next.js · WordPress · 12+ Years Building for the Web</p>
