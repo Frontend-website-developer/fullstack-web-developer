@@ -3,8 +3,8 @@ const PortfolioContentPage = [
         id: 1,
         Image: {
             src: "/ledger-portfolio.png",
-            width: "400",
-            height: "600"
+            width: 400,
+            height: 600
         },
         Link: "https://ledger.syedsajidali.dev/",
         Title: "Ledger Fullstack Web Application",
@@ -14,8 +14,8 @@ const PortfolioContentPage = [
             id: 2,
         Image: {
             src: "/cvmatch-portfolio.png",
-            width: "400",
-            height: "600"
+            width: 400,
+            height: 600
         },
         Link: "https://cvmatch.syedsajidali.dev/",
         Title: "CV Match",
@@ -25,8 +25,8 @@ const PortfolioContentPage = [
             id: 3,
         Image: {
             src: "/kmnr-portfolio.png",
-            width: "400",
-            height: "600"
+            width: 400,
+            height: 600
         },
         Link: "https://kmnrengineering.com",
         Title: "KMNR Engineering",
@@ -36,8 +36,8 @@ const PortfolioContentPage = [
                 id: 4,
         Image: {
             src: "/struqtio-portfolio.png",
-            width: "400",
-            height: "600"
+            width: 400,
+            height: 600
         },
         Link: "https://struqtio.com/",
         Title: "StruqtIO",
@@ -47,8 +47,8 @@ const PortfolioContentPage = [
                 id: 5,
         Image: {
             src: "/logopoppin-portfolio.png",
-            width: "400",
-            height: "600"
+            width: 400,
+            height: 600
         },
         Link: "https://logopoppin.com/",
         Title: "LogoPoppin",
@@ -58,8 +58,8 @@ const PortfolioContentPage = [
                 id: 6,
         Image: {
             src: "/econtentsol-portfolio.png",
-            width: "400",
-            height: "600"
+            width: 400,
+            height: 600
         },
         Link: "https://econtentsol.com",
         Title: "Econtentsol",

@@ -16,8 +16,9 @@ const Portfolio = () => {
                 (p) => {
                     return(
                         <div className="my-3">
-                        <a href={p.Link} target="_blank"><Image 
+                        <a href={p.Link} target="_blank"><Image
                         src={p.Image.src}
+                        alt={p.Title}
                         width={p.Image.width}
                         height={p.Image.height}
                         /></a>
