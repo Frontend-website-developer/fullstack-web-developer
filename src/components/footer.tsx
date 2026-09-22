@@ -18,7 +18,7 @@ const Footer = () => {
     </div>
 
     <div className="bg-[#000] text-[#fff] p-6 flex gap-4">
-        <FaGithub size={22} /> <FaLinkedin size={22} /> <Mail size={22} />
+        <a href="https://github.com/Frontend-website-developer" target="_blank"><FaGithub size={22} /></a> <a href="https://www.linkedin.com/in/syed-sajid-ali-front-end-developer/" target="_blank"><FaLinkedin size={22} /></a> <a href="mailto:ssajidali.dev@gmail.com"><Mail size={22} /></a>
     </div>
 
     </>
